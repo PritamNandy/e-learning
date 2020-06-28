@@ -1,2 +1,2 @@
 # e-learning
- This is a Laravel Project
+A Laravel Project. Developed an online learning platform website and admin panel.
